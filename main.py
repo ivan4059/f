@@ -98,5 +98,5 @@ async def on_message(message):
         await message.channel.send(random.choice(battute))
 
 # Inserisci il tuo token del bot Discord qui
-TOKEN = 'MTE1NzYxOTY4NDkyMTg1MjAxNQ.G_G5iS.KkXDlighdSW9Faw-xwcNfq8CCE9zeWz559FI_I'
+TOKEN = 'miotoken'
 client.run(TOKEN)
